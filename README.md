@@ -1,6 +1,3 @@
-# Finance-Analytics-Platform
-AI-powered finance management system for expense tracking, budgeting, goal planning, investments, analytics, and financial insights.
-
 # 📊 FinSight – Personal Finance & Investment Intelligence Platform
 
 <div align="center">
